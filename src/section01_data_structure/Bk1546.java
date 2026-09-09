@@ -1,3 +1,5 @@
+package section01_data_structure;
+
 import java.util.Scanner;
 
 public class Bk1546 {
